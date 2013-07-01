@@ -1,0 +1,33 @@
+#
+#	generic gitignore
+#
+
+*.class
+*.ser
+*~
+*.bak
+*.old
+*.py[co]
+
+# ide
+.settings
+.classpath
+.project
+.manager
+.pydevproject
+.idea
+
+# temp
+.DS_Store/
+/build/
+/tmp/
+#/var/
+
+#/config/
+
+# scm
+.svn
+.CVS
+.hg*
+
+#.
